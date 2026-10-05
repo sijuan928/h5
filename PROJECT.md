@@ -7,3 +7,7 @@
 验收：首次手机访问测试；一次真实代码更新触发发布并验证版本变化。
 
 内容依据：https://ich.unesco.org/en/RL/nanyin-00199
+
+固定网站地址：https://majestic-profiterole-540cdc.netlify.app
+
+首次连接后提交 v0.1.1 验证自动发布。网站代码应在此仓库更新，不再发布到此前被拦截的 chatgpt.site。修改完成后应检查固定地址的 version.json 与首页版本是否匹配；未经在线验证，不声明发布成功。
