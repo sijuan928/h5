@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='0.2.2';
+const VERSION='0.2.3';
 const SITE_URL='https://majestic-profiterole-540cdc.netlify.app';
 const $=(s,root=document)=>root.querySelector(s);
 const $$=(s,root=document)=>Array.from(root.querySelectorAll(s));
