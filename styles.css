@@ -47,3 +47,6 @@
 .ending-lines p{font-size:16px;line-height:2.1;text-align:left;letter-spacing:.05em;margin:0}.ending-lines p+p{margin-top:22px}.ending-lines p:nth-child(n){margin-left:0;margin-right:0}.ending-final{font-family:var(--kai);font-size:13px;line-height:2;color:var(--night-text);margin:20px auto 24px}.ending-final p+p{margin-top:8px}
 .ending.is-selected .ending-intro{display:none}.ending-result{position:relative;top:auto!important;left:auto;right:auto;width:100%;margin:10px auto 0;scroll-margin-top:110px}.ending.is-selected{justify-content:flex-start}.ending-seal{margin-top:30px}
 @media(max-width:359px){.cover-introduction{font-size:12px}.era-caption p{font-size:12px}.era-caption .english-name{font-size:8px}.choice-strips button{height:235px}.ending-lines p{font-size:15px}}
+
+/* v0.2.2: supplied portraits keep their full framing and original colour. */
+.era-panel.is-portrait .era-image img{object-fit:contain;filter:none}

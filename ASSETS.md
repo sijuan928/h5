@@ -76,3 +76,12 @@ Flat Chinese ink-wash illustration, restrained rice-paper texture within shapes,
 
 Flat Chinese ink-wash illustration, restrained rice-paper texture within shapes, elegant minimal craft illustration. Strict palette ivory #F4EFE6 #FBF8F2, ink #333A3E, teal #4E6E7A #9FB6BB, light ochre #B49B6C. No red orange pink pure black. No text letters numbers watermark. No photorealism no 3D highlights no neon. A quiet Minnan traditional courtyard with muted ivory stone and ochre walls (NO red bricks), two young adults seen strictly FROM BEHIND, one seated holding a horizontal pipa and one holding an upright bamboo dongxiao, informal afternoon practice. Teal modern clothes, soft ambient light without dramatic gradients, no front face, no written signs.
 
+
+
+## v0.2.2 小组提供的人物照片
+
+第五章三位人物使用小组按顺序上传的照片，原文件字节完整保留，未生成或改绘人物；显示采用完整画面与原色。老馆阁、年轻新声仍为场景插画。
+
+- 苏统谋（图1）：`assets/su-tongmou.jpg`，原文件 `94c0156f9241c6194755487b7d78dbaa.jpg`，SHA256 `2bb9ba8c67e639496ec1d93fa86eb2c6a22487eac62b163561b35eaab5e07233`。
+- 李白燕（图2）：`assets/li-baiyan.jpg`，原文件 `c348e5570eb41a2ffd12bffe006f7568.jpg`，SHA256 `9bb897d025c41d24e633d37f3aaee8c4a1c5820d4dbb3d7a9a731d678af93593`。
+- 庄丽芬（图3）：`assets/zhuang-lifen.png`，原文件 `a3286d3f3eca2e29b3e3d317e448f077.png`，SHA256 `172cec71d3e264de875c5686e3709afa47c6c3ac1979a72f428bdf656db88298`。
